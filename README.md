@@ -1,2 +1,10 @@
 # ti39senac
-Repositório da turma TI39
+## Repositório para estudo da turma TI39 - Senac
+###### Isso foi um teste
+* Arroz
+* Feijão
+* Batata
+
+1. Leite
+2. Café
+3. Chá
